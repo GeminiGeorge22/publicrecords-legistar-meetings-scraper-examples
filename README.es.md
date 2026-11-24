@@ -1,5 +1,8 @@
 # City Council Meetings Scraper (Legistar) — ejemplos
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Plenos municipales, puntos del orden del día y documentos de cualquier ciudad en Legistar.
 
 El Actor se ejecuta en **tu** cuenta de Apify (token de API u OAuth). El uso se factura a ti, en el plan gratuito o de pago de Apify.

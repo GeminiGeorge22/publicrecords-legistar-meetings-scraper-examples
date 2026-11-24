@@ -1,5 +1,8 @@
 # City Council Meetings Scraper (Legistar) — examples
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 City council meetings, agenda items and documents for any Legistar city.
 
 The Actor runs on **your** Apify account (API token or OAuth). Usage is billed to you on Apify's free or paid tier.

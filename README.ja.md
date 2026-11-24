@@ -1,5 +1,8 @@
 # City Council Meetings Scraper (Legistar) — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-legistar-meetings-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Legistarを使う任意の都市の市議会、議事項目、資料。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。
