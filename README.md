@@ -2,11 +2,17 @@
 
 # City Council Meetings Scraper (Legistar) — examples
 
+**Try it, tell us, and star it if it helped.** Run any Public Records Actor on your own Apify account, then [leave feedback](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/BETA.md). A star is welcome if this repo saved you time. Stars are optional and are never rewarded.
+
+See also [publicrecords-mcp](https://github.com/GeminiGeorge22/publicrecords-mcp) (MCP servers) and [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) (Agent Skills).
+
 City council meetings, agenda items and documents for any Legistar city.
 
 The Actor runs on **your** Apify account (API token or OAuth). Usage is billed to you on Apify's free or paid tier.
 
 ## Links
+- [MCP servers](https://github.com/GeminiGeorge22/publicrecords-mcp)
+- [Agent Skills](https://github.com/GeminiGeorge22/publicrecords-skills)
 - [Apify Store page](https://apify.com/publicrecords/legistar-meetings-scraper)
 - [Apify MCP endpoint](https://mcp.apify.com?tools=publicrecords/legistar-meetings-scraper)
 - [n8n / Make / Zapier / Pipedream recipes](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/templates)
